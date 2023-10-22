@@ -173,8 +173,8 @@ author = "Sam Robbins"
 
   # This contains the contact information for the footer
   [params.footer]
-  email = "samrobbinsgb@gmail.com"
-  address = "Durham, UK"
+  email = "miyagoshisouta@gmail.com"
+  address = "Aichi, JP"
   googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
 ```
 
